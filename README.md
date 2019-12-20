@@ -1,3 +1,5 @@
 # stratification-sampler
 
-This repository contains the latest version of Stratification Sampler code, with templates for all examples considered. To change the example, one needs to change the appropriate example name in the makefile. 
+This repository contains the latest version of Stratification Sampler code, with templates for all examples considered. To change the example, change the appropriate example name in the makefile. 
+
+All parameters are set in files named "testEXAMPLENAME.cpp"
