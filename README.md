@@ -1,5 +1,3 @@
 # stratification-sampler
 
-This repository contains: 
-- A folder containing the latest Stratification Sampler code, with templates for all examples considered
-- A folder containing all the versions of the code, data, and scripts to make figures in the paper
+This repository contains the latest version of Stratification Sampler code, with templates for all examples considered. To change the example, one needs to change the appropriate example name in the makefile. 
